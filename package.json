@@ -1,0 +1,15 @@
+{
+  "name": "cloud-run-jobs",
+  "version": "1.0.0",
+  "description": "Node.js sample for Cloud Run jobs",
+  "start": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+},
+  "keywords": [],
+  "author": "Geshan Manandhar",
+  "license": "ISC"
+}
